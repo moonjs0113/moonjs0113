@@ -12,11 +12,11 @@
 - 완벽한 하루 (~v6.3.1) [AppStore](https://apps.apple.com/kr/app/id1525540474)
 
 ## 📚 Activities
-| Period | Contents | Organization |
-|:-:|---|:-:|
-|2024.07. ~ 2024.08.|USG 공유대학 비교과 'Apple 플랫폼 개발자 과정' 멘토 |[CodersHigh](https://github.com/ProjectInTheClass)|
-|2022.03. ~ 2022.12.|Apple Developer Academy @ POSTECH|[Apple Developer Academy](https://developeracademy.postech.ac.kr)|
+| Period | Contents | Organization | Repository |
+|:-:|:-:|:-:|:-:|
+|2024.07. ~<br>2024.08.|USG 공유대학 비교과<br>'Apple 플랫폼 개발자 과정' 멘토|[CodersHigh](https://github.com/ProjectInTheClass)|-|
+|2022.03. ~<br>2022.12.|Apple Developer Academy<br>@ POSTECH|[Apple Developer Academy](https://developeracademy.postech.ac.kr)|[MemojiCollector](https://github.com/moonjs0113/MemojiCollector)(Personal) <br> [Swift Junior Session](https://github.com/moonjs0113/SwiftJuniorSession)(Personal) <br> [아이쿠(IKU)](https://github.com/moonjs0113/MacC-Team-IKU)(Team)|
 
 ## 🎓 Education
-- Konkuk Univ. 2016.03 ~ 2025.02(졸업예정)
+- Konkuk Univ. 2016.03 ~ 2025.02
   - Business Administration & Computer Science and Engineering
