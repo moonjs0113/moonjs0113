@@ -15,7 +15,7 @@
 | Period | Contents | Organization | Repository |
 |:-:|:-:|:-:|:-:|
 |2025.01. ~<br>2025.12.|SSAFY 13기(구미 캠퍼스 - Mobile Track)|[SSAFY](https://www.ssafy.com)| - |
-|2025.01. ~<br>2025.02.|NEXTERS 26기|[NEXTERS](https://nexters.co.kr/)| - |
+|2025.01. ~<br>2025.02.|NEXTERS 26기 iOS|[NEXTERS](https://nexters.co.kr/)| - |
 |2024.07. ~<br>2024.08.|USG 공유대학 비교과<br>'Apple 플랫폼 개발자 과정' 멘토|[CodersHigh](https://github.com/ProjectInTheClass)|[Xcode Tips Session](https://github.com/moonjs0113/2024_Summer_XcodeTips)|
 |2022.03. ~<br>2022.12.|Apple Developer Academy<br>@ POSTECH 1기|[Apple Developer Academy](https://developeracademy.postech.ac.kr)|[MemojiCollector](https://github.com/moonjs0113/MemojiCollector)(Personal)<br>[Swift Junior Session](https://github.com/moonjs0113/SwiftJuniorSession)(Personal)<br>[아이쿠(IKU)](https://github.com/moonjs0113/MacC-Team-IKU)(Team)|
 
