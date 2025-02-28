@@ -8,8 +8,10 @@
 - [Programoom](https://littlemoom.tistory.com/)
 
 ## 📱 Apps
+- 별별소 [AppStore](https://apps.apple.com/kr/app/id6741164570)
 - 주민e직접 (~v1.03) [AppStore](https://apps.apple.com/kr/app/id1610485313)
 - 완벽한 하루 (~v6.3.1) [AppStore](https://apps.apple.com/kr/app/id1525540474)
+
 
 ## 📚 Activities
 | Period | Contents | Organization | Repository |
@@ -20,5 +22,13 @@
 |2022.03. ~<br>2022.12.|[Apple Developer Academy<br>@ POSTECH](https://developeracademy.postech.ac.kr) 1기|[Apple Developer Academy](https://github.com/DeveloperAcademy-POSTECH)|[MemojiCollector](https://github.com/moonjs0113/MemojiCollector)(Personal)<br>[Swift Junior Session](https://github.com/moonjs0113/SwiftJuniorSession)(Personal)<br>[아이쿠(IKU)](https://github.com/moonjs0113/MacC-Team-IKU)(Team)|
 
 ## 🎓 Education
-- Konkuk Univ. 2016.03 ~ 2025.02
+- Konkuk Univ. 2016.03. ~ 2025.02.
   - Business Administration & Computer Science and Engineering
+
+## 🏆 Achievements
+- NEXTERS 26기 대상 (2025.02.22.)
+  - 나에게 의미있는 소비를 발견하는 [별별소](https://github.com/Nexters/Donmani-iOS)
+- 2022 KU 메디컬 해커톤 최우수상 (2022.10.05)
+  - 사시각 측정을 통해 영유아들의 사시 발병을 초기에 발견할 수 있도록 돕는 [아이쿠(IKU)](https://github.com/moonjs0113/MacC-Team-IKU)
+- 제7회 핀테크x인슈어테크 해커톤 우수상(손해보험협회상) (2019.11.30)
+  - 하이퍼레저 페브릭을 통해 차량의 ODB 데이터를 관리하여 운전자x보험사x자동차수리점에게 데이터 투명성과 신뢰성을 제공하는 블록체인 인프라
