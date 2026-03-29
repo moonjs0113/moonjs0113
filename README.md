@@ -8,10 +8,10 @@
 - [Programoom](https://littlemoom.tistory.com/)
 
 ## 📱 Apps
+- 살까말까 [AppStore](https://apps.apple.com/kr/app/id6758535406)
 - 별별소 [AppStore](https://apps.apple.com/kr/app/id6741164570)
 - 주민e직접 (~v1.03) [AppStore](https://apps.apple.com/kr/app/id1610485313)
 - 완벽한 하루 (~v6.3.1) [AppStore](https://apps.apple.com/kr/app/id1525540474)
-
 
 ## 📚 Activities
 | Period | Contents | Organization | Repository |
@@ -29,9 +29,9 @@
 
 ## 🏆 Achievements
 - NEXTERS 28기 우수상 (2025.02.28.)
-  - 현명한 소비를 위한 집단지성 투표 서비스 [살까말까 Web](https://buy-or-not.com/), 살까말까 iOS(미배포)
+  - 현명한 소비를 위한 집단지성 투표 서비스 [살까말까 Web](https://buy-or-not.com/), [살까말까 iOS](https://apps.apple.com/kr/app/id6758535406), [살까말까 Android](https://play.google.com/store/apps/details?id=com.sseotdabwa.buyornot)
 - NEXTERS 26기 대상 (2025.02.22.)
-  - 나에게 의미있는 소비를 발견하는 [별별소](https://github.com/Nexters/Donmani-iOS)
+  - 나에게 의미있는 소비를 발견하는 [별별소 iOS](https://apps.apple.com/kr/app/id6741164570), [별별소 Android](https://play.google.com/store/apps/details?id=com.gowoon.donmani_android&hl=ko)
 - 2022 KU 메디컬 해커톤 최우수상 (2022.10.05)
   - 사시각 측정을 통해 영유아들의 사시 발병을 초기에 발견할 수 있도록 돕는 [아이쿠(IKU)](https://github.com/moonjs0113/MacC-Team-IKU)
 - 제7회 핀테크x인슈어테크 해커톤 우수상(손해보험협회상) (2019.11.30)
