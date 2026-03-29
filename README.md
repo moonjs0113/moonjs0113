@@ -10,7 +10,7 @@
 ## 📱 Apps
 - 살까말까 [AppStore](https://apps.apple.com/kr/app/id6758535406)
 - 별별소 [AppStore](https://apps.apple.com/kr/app/id6741164570)
-- 주민e직접 (~v1.03) [AppStore](https://apps.apple.com/kr/app/id1610485313)
+- 주민e직접 (~v1.03) (사업종료)
 - 완벽한 하루 (~v6.3.1) [AppStore](https://apps.apple.com/kr/app/id1525540474)
 
 ## 📚 Activities
